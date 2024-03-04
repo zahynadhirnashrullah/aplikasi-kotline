@@ -14,7 +14,7 @@ fun main() {
 
     scanner.nextLine() // Consume the newline character
 
-    print("Enter your Hoby: ")
+    print("Enter your Hoby : ")
     val address = scanner.nextLine()
 
     // Display biodata
